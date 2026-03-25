@@ -4,7 +4,7 @@ A functional, high-performance task management tool built with a focus on clean 
 
 ## 🚀 Live Demo
 
-[**🌐 Visit Todo App Live Site**](https://ritesh-builds-dev.github.io/todo-app/)
+You can view the live application here: [**🌐 Visit Todo App Live Site**](https://ritesh-builds-dev.github.io/todo-app/)
 
 ---
 
